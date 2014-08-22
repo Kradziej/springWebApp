@@ -2,12 +2,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Main Page</title>
+<title>User not exist</title>
 </head>
 <body>
 
-<h2>Content</h2>
-<a href="${personForm}">Users</a>
+<h1>Invalid user ID: ${id}</h1>
 
 </body>
 </html>

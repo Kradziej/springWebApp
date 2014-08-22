@@ -2,12 +2,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Main Page</title>
+<title>User ${userNick}</title>
 </head>
 <body>
 
-<h2>Content</h2>
-<a href="${personForm}">Users</a>
+<h2>User ${userNick}</h2>
+Name: ${userNick} <br>
+Surname: <br>
+Email: ${userEmail} <br>
 
 </body>
 </html>
